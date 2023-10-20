@@ -1,0 +1,21 @@
+url: "https://gerencserlab.github.io"
+baseurl: "/Superresolution-actin-and-mitochondria-analysis"
+relative_url: true
+markdown: GFM
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-google_search_console_verification_file
+
+gems:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-google_search_console_verification_file
+
+google_search_console:
+  verification_file_code: 201c2f5f1209c7c6
+  
+relative_links:
+  enabled: true
+  collections: false
