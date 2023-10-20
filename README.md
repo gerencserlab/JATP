@@ -13,7 +13,7 @@ This repository contains the latest Excel worksheets for calculation of bufferin
 * Latest workbook for calculation of buffering power: [Buffering_power_2023.xlsx](https://github.com/gerencserlab/JATP/blob/main/Buffering_power_2023.xlsx)
 
 
-Keywords: Seahorse Extracellular Flux Analyzer, XFe96, XFe23, OCR, oxygen consumption rates, ECAR extracellular acidification, rates, Warburg-effect, Pasteur-effect, Crabtree-effect, glucose, pyruvate, palmitate, glutamine, substrates, Excel tables, Excel worksheets, Excel workbooks, cell respirometry
+Keywords: Seahorse Extracellular Flux Analyzer, XFe96, XFe24, OCR, oxygen consumption rates, ECAR extracellular acidification, rates, Warburg-effect, Pasteur-effect, Crabtree-effect, glucose, pyruvate, palmitate, glutamine, substrates, Excel tables, Excel worksheets, Excel workbooks, cell respirometry
 
 
 [Gerencser Lab](https://www.buckinstitute.org/lab/gerencser-lab/)
